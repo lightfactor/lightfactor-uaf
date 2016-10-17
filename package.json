@@ -1,0 +1,37 @@
+{
+  "name": "lightfactor-uaf",
+  "version": "0.0.2",
+  "description": "Lightfactor UAF Authentication Library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lightfactor/lightfactor-uaf"
+  },
+  "keywords": [
+    "UAF",
+    "authentication",
+    "FIDO"
+  ],
+  "author": "Dave Atherton <datherton@lightfactor.co>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lightfactor/lightfactor-uaf/issues"
+  },
+  "homepage": "https://github.com/lightfactor/lightfactor-uaf",
+  "devDependencies": {
+    "eslint": "^3.2.2",
+    "eslint-config-standard": "^5.3.5",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0",
+    "mocha": "2"
+  },
+  "dependencies": {
+    "ajv": "^4.3.1",
+    "bitstring": "^1.0.0",
+    "canvas": "^1.4.0",
+    "elliptic": "^6.3.1",
+    "jspath": "^0.3.3",
+    "node-forge": "^0.6.41",
+    "pngjs": "^3.0.0",
+    "ursa": "^0.9.4"
+  }
+}
