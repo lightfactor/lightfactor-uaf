@@ -1,6 +1,6 @@
 # Lightfactor UAF Authentication Library
 
-lightfactor-uaf is a [FIDO UAF 1.0 compliant](https://fidoalliance.org/specifications/overview/) library supporting register, deregister, authenticate and transaction confirmation support for UAF operations.  It is designed to be used in conjunction with lightfactor-engine which provides HTTPS server connectivity to the library.
+lightfactor-uaf is a [FIDO UAF 1.0 compliant](https://fidoalliance.org/specifications/overview/) library that provides register, deregister, authenticate and transaction confirmation support for UAF operations.  It is designed to be used in conjunction with lightfactor-engine which provides HTTPS server connectivity to the library.
 
 Lightfactor Identity Engine (the combination of lightfactor-uaf and lightfactor-engine) participated in the August 2016 FIDO Interop event and was [certified](https://fidoalliance.org/certification/fido-certified/) by FIDO in September 2016.  It has been load-tested against a free-tier AWS instance and can support 200 simultaneous UAF operations in that configuration.
 
