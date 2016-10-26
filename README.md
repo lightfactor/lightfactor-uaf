@@ -31,7 +31,7 @@ npm install lightfactor-uaf
 
 ## Usage
 
-For detailed usage, see lightfactor-engine/routes/uaf.js.
+For detailed usage, see the [lightfactor-engine source](https://github.com/lightfactor/lightfactor-engine/blob/master/routes/uaf.js).
 
 ## TODO
 
