@@ -1,6 +1,6 @@
 {
   "name": "lightfactor-uaf",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Lightfactor UAF Authentication Library",
   "repository": {
     "type": "git",
