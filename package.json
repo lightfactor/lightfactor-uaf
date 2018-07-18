@@ -25,13 +25,13 @@
     "mocha": "2"
   },
   "dependencies": {
-    "ajv": "^4.3.1",
+    "ajv": "^6.5.2",
     "bitstring": "^1.0.0",
-    "canvas": "^1.4.0",
-    "elliptic": "^6.3.1",
-    "jspath": "^0.3.3",
-    "node-forge": "^0.6.41",
-    "pngjs": "^3.0.0",
+    "canvas": "^1.6.11",
+    "elliptic": "^6.4.0",
+    "jspath": "^0.4.0",
+    "node-forge": "^0.7.5",
+    "pngjs": "^3.3.3",
     "ursa": "^0.9.4"
   }
 }
